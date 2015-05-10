@@ -1,0 +1,1 @@
+echo whatever > newFile.txt will writewhatever and save it into a  new text file named newFile
